@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a sound engineer, programmer & nerd from Germany. 🏳️‍🌈 🦄 🇩🇪
+
+
 <!--
 **speedy3wk/speedy3wk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
